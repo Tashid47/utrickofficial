@@ -1,0 +1,167 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: linear-gradient(to right, #151D21, #2C2C2C);
+}
+p {
+  color: rgb(255, 255, 255);
+  font-family: Roboto, Arial;
+}
+.paragraph{
+  text-align: center;
+}
+.paragraph > p{
+  font-size: 0.6cm;
+}
+.more {
+  display: inline-flex;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ff7a7a;
+  font-family: "Roboto";
+  font-size: 24px;
+  color: #151d21;
+  padding: 7px;
+  border: none;
+  border-radius: 4px;
+}
+.more:hover {
+  color: black;
+}
+.moremore{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+.username {
+  font-weight: bold;
+  font-size: 1.8cm;
+  font-family: Roboto, Arial;
+  color: white;
+}
+a {
+  text-decoration: none;
+  color: aliceblue;
+  font-family: Roboto, Arial;
+}
+a:hover {
+  color: #ff7a7a;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+li {
+  display: inline-block;
+  margin: 20px;
+}
+.thx {
+  font-size: 25px;
+}
+.firstvid {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.secondvid {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.homebutton {
+  font-size: 35px;
+  font-weight: bold;
+  color: #ff7a7a;
+  margin-left: 30px;
+}
+.links{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.fb {
+  display: inline-flex;
+  width: 80px;
+  margin: 20px;
+}
+.yt {
+  display: inline-flex;
+  width: 80px;
+  margin: 20px;
+}
+.discord {
+  display: inline-flex;
+  width: 80px;
+  margin: 20px;
+}
+.twitter {
+  display: inline-flex;
+  width: 80px;
+  margin: 20px;
+}
+.mail {
+  display: inline-flex;
+  width: 80px;
+  margin: 20px;
+}
+.head1 {
+  font-size: 70px;
+  font-family: RobotoThin, Roboto, Arial;
+  text-align: center;
+  color: white;
+}
+.sub1 {
+  text-align: center;
+  font-size: 30px;
+}
+.head2 {
+  font-family: Roboto, Arial;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+.creationsbg {
+  background-color: gray;
+  font-family: Roboto, Arial;
+  font-size: 32px;
+  display: inline-flex;
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 5px;
+}
+.uFlappy {
+  display: inline-flex;
+  padding: 10px;
+  background-color: gray;
+  font-family: Roboto, Arial;
+  font-size: 32px;
+  margin: 30px;
+  border: none;
+  border-radius: 7px;
+}
+.uRock {
+  display: inline-flex;
+  padding: 10px;
+  background-color: gray;
+  font-family: Roboto, Arial;
+  font-size: 32px;
+  margin: 30px;
+  border: none;
+  border-radius: 7px;
+}
+.creationsmiddle{
+  display: flex;
+  justify-content: center;
+}
+.uCalculator {
+  display: inline-flex;
+  padding: 10px;
+  background-color: gray;
+  font-family: Roboto, Arial;
+  font-size: 32px;
+  margin: 30px;
+  border: none;
+  border-radius: 7px;
+}
+
