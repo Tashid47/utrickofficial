@@ -178,3 +178,13 @@ li {
   border: none;
   border-radius: 7px;
 }
+.Blocky {
+  display: inline-flex;
+  padding: 10px;
+  background-color: gray;
+  font-family: Roboto, Arial;
+  font-size: 32px;
+  margin: 20px;
+  border: none;
+  border-radius: 7px;
+}
