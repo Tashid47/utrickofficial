@@ -123,11 +123,12 @@ header{
     font-size: 30px;
     margin-top: 50px;
 }
-.aboutLinks{
+.aboutLinks {
     display: grid;
     justify-content: center;
-    grid-template-columns: repeat(5, 100px);
+    grid-template-columns: repeat(4, 110px);
     margin-top: 50px;
+    justify-items: center;
 }
 .aboutLinks a img{
     width: 70px;
